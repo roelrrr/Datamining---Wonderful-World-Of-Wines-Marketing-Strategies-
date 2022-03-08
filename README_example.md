@@ -1,11 +1,10 @@
-# BC0: Business Case example
+# Wonderful World of Wines Marketing Optimization
 
-**Problem type:** Prediction of service subscription
-
-**Submission date:** no submission
+**Problem type:** Datamining - Clustering Customers For Marketing Insides
 
 ## Problem Description
 
+A wine seller based in the USA has provided an active database of 10.000 customers. 
 A Portuguese banking institution made several marketing campaigns to sell its 
 customers a term deposit (*). The marketing campaigns were based on phone 
 calls. Often, more than one contact to the same client was required, in 
